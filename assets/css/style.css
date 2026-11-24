@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5 {
   width: 112px;
   height: 112px;
   object-fit: cover;
-  object-position: center 18%;
+  object-position: center;
   border-radius: 50%;
   border: 3px solid rgba(232, 196, 148, 0.7);
   background: #fff;
