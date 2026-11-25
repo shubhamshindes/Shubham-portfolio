@@ -417,6 +417,13 @@ section { padding: 72px 0; }
   object-fit: contain;
 }
 
+.project-media--trackline {
+  padding: 0;
+  background: #fff;
+}
+
+.project-media--trackline img { max-height: 190px; }
+
 .project-body { padding: 20px 22px 22px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
 
 .project-body h3 { font-size: 1.4rem; }
