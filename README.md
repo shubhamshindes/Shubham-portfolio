@@ -1,6 +1,6 @@
 # My Personal Portfolio 🌐  
 
-Welcome to my personal portfolio website! This website showcases my projects, skills, and experience as a Full Stack Java Developer. It is designed to provide an overview of my work, accomplishments, and technical expertise.  
+Welcome to my personal portfolio website! This website showcases my projects, skills, and experience as a Software Engineer specializing in Java full-stack development. It is designed to provide an overview of my work, accomplishments, and technical expertise.  
 
 ---
 
